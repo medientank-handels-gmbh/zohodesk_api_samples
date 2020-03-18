@@ -7,8 +7,8 @@ class CreateTicket
 {
 	public static void Main(string[] args)
 	{
-		string auth_token = "59550a0e2b1a864a31bef962363e029f"; // YOUR_AUTH_TOKEN
-		string org_id = "652853630"; //YOUR_ORG_ID
+		string auth_token = "c1d29105189bf1e6214bab273281153e"; // YOUR_AUTH_TOKEN
+		string org_id = "20066071032"; //Medientank Org Id
 
 		string ticket_data ="{\"contactId\" : \"215666000000074112\", \"subject\" : \" from C# Welcome to Zoho Support. Youve got a sample Request!\", \"departmentId\" : \"215666000000006907\", \"description\" : \"Hai This is Description\"}";
 
